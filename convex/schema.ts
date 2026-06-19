@@ -7,7 +7,7 @@ const schema = defineSchema({
   users: defineTable({
     userName: v.string(),
     passwordHash: v.string(),
-  }).index("by_username", ["username"]),
+  }).index("by_username", ["userName"]),
 });
  
 export default schema;
