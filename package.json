@@ -11,10 +11,12 @@
   "dependencies": {
     "@auth/core": "^0.41.1",
     "@convex-dev/auth": "^0.0.94",
+    "@excalidraw/excalidraw": "^0.18.1",
+    "@tldraw/tldraw": "^5.1.1",
     "convex": "^1.41.0",
     "next": "16.2.9",
-    "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
