@@ -18,9 +18,9 @@ export default function Hero() {
                 </div>
                 <p className="text-[2.5vh] italic font-mono text-accent-neutral/65"> You got that creative itch huh? </p>
                 <button 
-                onClick={() => window.location.href = "/login"}
+                onClick={() => window.location.href = "/draw"}
                 className=" border-dark-neutral border-2 bg-accent-primary m-2.5 py-1.25 px-2.5 rounded-full text-foreground shadow-lg shadow-dark-neutral/25 hover:scale-120 active:scale-90 transition-all duration-100 ease-in-out"
-                > Login</button>
+                > Click me to Draw</button>
             </div>
 
 

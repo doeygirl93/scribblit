@@ -1,3 +1,5 @@
+"use client";
+
 import TLDrawEditor from "@/components/TLDrawEditor";
 
 export default function DrawPage() {
