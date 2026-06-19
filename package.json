@@ -11,7 +11,6 @@
   "dependencies": {
     "@auth/core": "^0.41.1",
     "@convex-dev/auth": "^0.0.94",
-    "@excalidraw/excalidraw": "^0.18.1",
     "@tldraw/tldraw": "^5.1.1",
     "convex": "^1.41.0",
     "next": "16.2.9",
